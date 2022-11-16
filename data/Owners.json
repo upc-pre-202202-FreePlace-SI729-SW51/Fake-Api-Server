@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nameCompany": "The Thosrpark",
+    "address": "Av.Javier Prado",
+    "description": "El mejor parking de la ciudad",
+    "contact": "983412344",
+    "ownerType": "private"
+  },
+  {
+    "id": 2,
+    "nameCompany": "Plaza Lots",
+    "address": "Av.Primavera",
+    "description": "El mejor parking de todo surco",
+    "contact": "983991203",
+    "ownerType": "private"
+  },
+  {
+    "id": 3,
+    "nameCompany": "The dragon parking",
+    "address": "Av.Encalada",
+    "description": "El mejor parking",
+    "contact": "945673345",
+    "ownerType": "private"
+  },
+  {
+    "id": 4,
+    "nameCompany": "Parking Flag",
+    "address": "Av.Marina",
+    "description": "El mejor parking de la ciudad",
+    "contact": "943382346",
+    "ownerType": "public"
+  },
+  {
+    "id": 5,
+    "nameCompany": "Drivers Sleep",
+    "address": "Av.Lomas Lugubres",
+    "description": "El mejor parking de la ciudad",
+    "contact": "993454343",
+    "ownerType": "public"
+  },
+  {
+    "id": 6,
+    "nameCompany": "Take care Driver",
+    "address": "Av.Angamos",
+    "description": "El mejor del distrito",
+    "contact": "993456782",
+    "ownerType": "public"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "type": "VISA",
+    "cardNumber": "4820870003646581",
+    "dateExpiration": "07/2025",
+    "cvi": "324"
+  },
+  {
+    "id": 2,
+    "type": "VISA",
+    "cardNumber": "4140857815562141",
+    "dateExpiration": "01/2026",
+    "cvi": "336"
+  },
+  {
+    "id": 3,
+    "type": "VISA",
+    "cardNumber": "4305846357705243",
+    "dateExpiration": "07/2027",
+    "cvi": "111"
+  },
+  {
+    "id": 4,
+    "type": "MaterCard",
+    "cardNumber": "5560258515225345",
+    "dateExpiration": "05/2026",
+    "cvi": "973"
+  },
+  {
+    "id": 5,
+    "type": "MaterCard",
+    "cardNumber": "5418262611773723",
+    "dateExpiration": "08/2024",
+    "cvi": "414"
+  },
+  {
+    "id": 6,
+    "type": "MaterCard",
+    "cardNumber": "5488921553488559",
+    "dateExpiration": "12/2025",
+    "cvi": "357"
+  }
+]

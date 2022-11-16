@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "creditCardId": 1,
+    "fullName": "Frank Huarcaya",
+    "contact": "987456321",
+    "vehicleNumber": "B6T05"
+  },
+  {
+    "id": 2,
+    "creditCardId": 4,
+    "fullName": "Jose Fabricio Jared",
+    "contact": "987623112",
+    "vehicleNumber": "A83T9"
+  },
+  {
+    "id": 3,
+    "creditCardId": 2,
+    "fullName": "Damian Thom",
+    "contact": "934566721",
+    "vehicleNumber": "H67T3"
+  },
+  {
+    "id": 4,
+    "creditCardId": 5,
+    "fullName": "Luis Martinez",
+    "contact": "932646389",
+    "vehicleNumber": "F9L31"
+  },
+  {
+    "id": 5,
+    "creditCardId": 3,
+    "fullName": "Samuel De Luque",
+    "contact": "956433367",
+    "vehicleNumber": "M5L74"
+  },
+  {
+    "id": 6,
+    "creditCardId": 6,
+    "fullName": "David Alonso",
+    "contact": "976646321",
+    "vehicleNumber": "L9H3J"
+  }
+]

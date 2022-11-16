@@ -1,10 +1,20 @@
-const parkings = require("./data/parkings.json");
-const history = require("./data/History.json");
+const owner = require("./data/Owners.json");
+const parkingLots = require ("./data/ParkingLots.json");
+const creditCard = require ("./data/CreditCard.json");
+const drivers = require ("./data/Drivers.json");
+const reservations = require ("./data/Reservations.json");
+const parkingSlip = require ("./data/ParkingSlip.json");
+const reviews = require ("./data/Reviews.json");
 
 
 module.exports = {
-  parkings,
-  history
+  owner,
+  parkingLots,
+  creditCard,
+  drivers,
+  reservations,
+  parkingSlip,
+  reviews
 }
 
 

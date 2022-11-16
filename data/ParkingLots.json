@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "ownerId": 1,
+    "spaceAvailable": 345,
+    "spaceFree": 150,
+    "cost": 45
+  },
+  {
+    "id": 2,
+    "ownerId": 4,
+    "spaceAvailable": 5,
+    "spaceFree": 2,
+    "cost": 5
+  },
+  {
+    "id": 3,
+    "ownerId": 2,
+    "spaceAvailable": 400,
+    "spaceFree": 250,
+    "cost": 90
+  },
+  {
+    "id": 4,
+    "ownerId": 5,
+    "spaceAvailable": 10,
+    "spaceFree": 6,
+    "cost": 9
+  },
+  {
+    "id": 5,
+    "ownerId": 3,
+    "spaceAvailable": 245,
+    "spaceFree": 105,
+    "cost": 20
+  },
+  {
+    "id": 6,
+    "ownerId": 6,
+    "spaceAvailable": 7,
+    "spaceFree": 4,
+    "cost": 5
+  }
+]
